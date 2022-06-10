@@ -1,19 +1,19 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
+Bu repo [Kodluyoruz](https://patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ![Kodluyoruz ilk repo](markdown.png)
 
 ## Installation
 ---
-Öncelikle projeyi clonlayın.
+Öncelikle projeyi clonelayın.
 ```
 https://github.com/gulerburak/kodluyoruzilkrepo.git
 ```
 
 ## Usage
 ---
-Projeyi clonladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
@@ -23,7 +23,7 @@ code .
 
 ## Contributing
 ---
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen ilk önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
 ---
